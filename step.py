@@ -1,2 +1,8 @@
 print('hello world') 
-print
+print('python')
+print('python')
+print('python')
+print('python')
+print('python')
+print('python')
+print('python')
