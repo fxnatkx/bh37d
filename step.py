@@ -1,12 +1,2 @@
 print('hello world') 
-print('pycharm')
-print('pycharm')
-print('pycharm')
-print('pycharm')
-print('pycharm')
-print('pycharm')
-print('python')
-print('python')
-print('python')
-print('python')
-print('python')
+print
